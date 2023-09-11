@@ -1,11 +1,11 @@
-# Hi, I'm (Gabriel Arango ya lo cambie otra vez)
+# Hi, I'm Gabriel Arango
 
 <!-- A short sentence that can  describe who you are -->
 
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
+- Bachelor: Biomedical enginering stunden from [Universidad de los Andes](https://uniandes.edu.co)
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
