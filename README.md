@@ -15,7 +15,7 @@
 
 <img width="180" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
 
-- Member of [IEEE EMBS uniandes]
+- Member of IEEE EMBS uniandes
 - <img width="180" alt="Logo_Short" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/1024px-IEEE_logo.svg.png">
 
 
