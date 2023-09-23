@@ -41,11 +41,11 @@
 <!-- Because we are humans before researchers -->
 ## Hobbies
 
-- Hooby #1
-- Hooby #2
+- Play Ultimate Fresbee
+- Fotography
 
 
 ## Contact
 
-You can reach me at <email@example.com>
+You can reach me at <g.arangoc@uniandes.edu.co>
 
